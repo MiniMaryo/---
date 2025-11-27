@@ -6,11 +6,11 @@
 
 ## Используемые API
 ### OpenWeatherMap — для получения актуальной погоды:
-API: https://openweathermap.org/api
+API: https://openweathermap.org/api <br>
 _Требуется API-ключ._
 
 ### Open-Meteo — для прогноза по периодам дня:
-API: https://open-meteo.com/
+API: https://open-meteo.com/ <br>
 _Не требует регистрации._
 
 ## Технологии:
